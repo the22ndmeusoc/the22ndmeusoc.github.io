@@ -79,6 +79,7 @@
                                     <th>Members</th>
                                     <th>E-mail</th>
                                     <th>ICQ</th>
+                                    <th>Discord</th>
                                 </tr>
                                 <xsl:for-each select="/squad/member">
                                     <tr>
@@ -99,6 +100,9 @@
                                         </td>
                                         <td class="member_icq">
                                             <xsl:value-of select="icq"/>
+                                        </td>
+                                        <td class="member_discord">
+                                            <xsl:value-of select="discord"/>
                                         </td>
                                     </tr>
                                     <tr>
