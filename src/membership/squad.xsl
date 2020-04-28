@@ -6,7 +6,7 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title><xsl:value-of select="/squad/name"/></title>
+                <title><xsl:value-of select="/squad/title"/></title>
                 <link REL="stylesheet" TYPE="text/css" HREF="squad.css"></link>
             </head>
             <!--
@@ -26,6 +26,7 @@
                                 <tr height="30">
                                     <td class="one">
                                         <div class="sqd_name">
+                                            <!-- TODO: TBD: may look into elaborating this section with more interesting bits... -->
                                             <xsl:value-of select="/squad/name"/>
                                         </div>
                                     </td>
