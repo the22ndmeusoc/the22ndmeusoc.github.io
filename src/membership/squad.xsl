@@ -55,7 +55,7 @@
                                 <tr height="10">
                                     <td class="sqd_website">
                                         Web site: <a>
-                                            <xsl:attribute name="href">http://<xsl:value-of select="/squad/web"/></xsl:attribute>
+                                            <xsl:attribute name="href"><xsl:value-of select="/squad/web"/></xsl:attribute>
                                             <xsl:value-of select="/squad/web"/>
                                         </a>
                                     </td>
