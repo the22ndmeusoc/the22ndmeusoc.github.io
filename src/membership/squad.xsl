@@ -112,7 +112,7 @@
                                                 <xsl:otherwise>two</xsl:otherwise>
                                             </xsl:choose>
                                         </xsl:attribute>
-                                        <td class="member_remark" colspan="2" valign="top">
+                                        <td class="member_remark" colspan="3" valign="top">
                                             <xsl:value-of select="remark"/>
                                         </td>
                                     </tr>
