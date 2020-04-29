@@ -5,7 +5,6 @@
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT email (#PCDATA)>
 <!ELEMENT icq (#PCDATA)>
-<!ELEMENT discord (#PCDATA)>
 <!ELEMENT web (#PCDATA)>
 <!ELEMENT picture (#PCDATA)>
 <!ELEMENT title (#PCDATA)>
