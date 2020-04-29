@@ -8,5 +8,6 @@
 <!ELEMENT discord (#PCDATA)>
 <!ELEMENT web (#PCDATA)>
 <!ELEMENT picture (#PCDATA)>
+<!ELEMENT picture_large (#PCDATA)>
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT remark (#PCDATA)>
