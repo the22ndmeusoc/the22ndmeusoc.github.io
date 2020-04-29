@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl" type="text/xsl"?>
-<squad nick="the_22nd_meu_soc">
+<squad nick="22nd MEU (SOC)">
     <!-- TODO: TBD: may add other bits, like a Discord id, etc -->
     <name>the_22nd_meu_soc</name>
     <email>the22ndmeusoc@gmail.com</email>
@@ -10,11 +10,14 @@
     <picture>22nd_meu_large_insignia_64x64.paa</picture>
     <picture_large>22nd_meu_large_insignia_256x256.paa</picture_large>
     <title>The 22nd MEU (SOC) (Arma 3)</title>
-    <member id="76561198063970263" nick="Maj M. W. Powell">
-        <name>Capt Michael</name>
+    <member id="76561198063970263" nick="Capt Michael">
+        <name>M. W. Powell</name>
         <email>the22ndmeusoc@gmail.com</email>
         <icq></icq>
         <discord>michaelwplde#0106</discord>
+        <grade>Maj.</grade>
         <remark>Founder</remark>
+        <about></about>
+        <vehicles></vehicles>
     </member>
 </squad>
