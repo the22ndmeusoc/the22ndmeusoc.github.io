@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl" type="text/xsl"?>
 <squad nick="the_22nd_meu_soc">
@@ -6,7 +6,9 @@
     <name>the_22nd_meu_soc</name>
     <email>the22ndmeusoc@gmail.com</email>
     <web>https://steamcommunity.com/groups/the_22nd_meu_soc</web>
+    <url>https://the22ndmeusoc.github.io/squads/xml/squad.xml</url>
     <picture>22nd_meu_large_insignia_64x64.paa</picture>
+    <picture_large>22nd_meu_large_insignia_256x256.paa</picture_large>
     <title>The 22nd MEU (SOC) (Arma 3)</title>
     <member id="76561198063970263" nick="Maj M. W. Powell">
         <name>Capt Michael</name>

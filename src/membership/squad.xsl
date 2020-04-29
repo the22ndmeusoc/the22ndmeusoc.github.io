@@ -44,7 +44,7 @@
                                                     <div class="sqd_logo">
                                                         <img alt="Picture: Squad Logo">
                                                             <xsl:attribute name="src">
-                                                                <xsl:value-of select="concat(substring-before(/squad/picture,'.paa'),'.png')"/>
+                                                                <xsl:value-of select="concat(substring-before(/squad/picture_large,'.paa'),'.png')"/>
                                                             </xsl:attribute>
                                                         </img>
                                                     </div>
